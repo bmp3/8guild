@@ -1,0 +1,7 @@
+.posts-box { }
+.p-box { padding : 1.5em 0; text-align : center; border-top : 1px solid #c2c2c2; }
+.p-box .p-title { font-size : 1.5em; font-weight : 700; }
+.p-box .p-img { }
+.p-box .p-img img { margin-top : 1rem; }
+.p-box .p-excerpt { }
+.p-box .p-date { }
